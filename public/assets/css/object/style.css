@@ -1984,9 +1984,8 @@ letter-spacing: 0.1em;
   .mv_form {
     display: block;
     position: absolute;
-    top: 50%;
+    bottom: -4.3vh;
     right: 0%;
-    transform: translateY(-50%);
     width: 360px;
     max-width: 26%;
     z-index: 10;
