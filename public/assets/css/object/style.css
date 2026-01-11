@@ -1994,6 +1994,7 @@ letter-spacing: 0.1em;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     background-color: #fff;
+    height: 780px;
   }
 
   .mv_form::-webkit-scrollbar {
